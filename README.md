@@ -40,7 +40,7 @@ Below are screenshots from the projet:
 
 - 🔗 [Amazon_Cleaned_Data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/Amazon-Sales-Dashboard/blob/main/Amazon_cleaned_data.png)
 - 🔗 [Amazon_Sales_Dashboard Screenshot] <br> (https://github.com/divyanshisingh13579-ux/Amazon-Sales-Dashboard/blob/main/Amazon_Sales_Dashboard.png)
-- 🔗 [Amazon_Sales_Insights Screenshot] <br> ()
+- 🔗 [Amazon_Sales_Insights Screenshot] <br> (https://github.com/divyanshisingh13579-ux/Amazon-Sales-Dashboard/blob/main/Sales_Insigts.png)
 <br>
 
 ### 🔑 **Key Learnings**
