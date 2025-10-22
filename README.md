@@ -32,14 +32,15 @@
 <br>
 
 ### 🔗 **Live Google Sheet Link**
-()
+(https://docs.google.com/spreadsheets/d/1uT_hAbT9UbTcqtys8vxipNRLfREoGPAWP1L7Rpn2T8Q/edit?usp=sharing)
 <br>
 
 ### 👀 Preview
 Below are screenshots from the projet:
 
-- 🔗 [Amazon_cleaned_data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/Amazon-Sales-Dashboard/blob/main/Amazon_cleaned_data.png)
-- 🔗 [Amazon_sales_dashboard Screenshot] <br> ()
+- 🔗 [Amazon_Cleaned_Data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/Amazon-Sales-Dashboard/blob/main/Amazon_cleaned_data.png)
+- 🔗 [Amazon_Sales_Dashboard Screenshot] <br> (https://github.com/divyanshisingh13579-ux/Amazon-Sales-Dashboard/blob/main/Amazon_Sales_Dashboard.png)
+- 🔗 [Amazon_Sales_Insights Screenshot] <br> ()
 <br>
 
 ### 🔑 **Key Learnings**
