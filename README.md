@@ -1,8 +1,8 @@
 # 📊 Amazon-Sales-Dashboard (Mini Project)
 
 ### 📌 **Project Overview**
-- This project is a **Mini Project** where I worked with Amazon Sales Data (3,204 rows) using **Google Sheets**.
-- The goal of the project was to **clean raw data** and build an interactive **Sales Dashboard** showing key business insights like revenue trends, top products, and overall performance.
+- This project is a **Mini Project** where I worked with Amazon Data (3,204 rows) using **Google Sheets**.
+- The goal of the project was to **clean raw data** and build an interactive **Sales Dashboard** showing **key business insights** like revenue trends, top products, and overall performance.
 <br>
 
 ### 🛠 Tools & Skills Used
@@ -22,12 +22,12 @@
 <br>
 
 ### 🔑 Key Steps
-1. Cleaned and organized raw sales data (handled blanks, inconsistent values, and formatting issues).
+1. Cleaned and organized raw data (handled blanks, inconsistent values, and formatting issues).
 2. Standardized date and numeric formats for consistency.
 3. Built **Pivot Tables** to summarize sales data by product, month, and category.
-4. Designed multiple charts for visual representation.
+4. Created interactive dashboard.
 5. Used **Scorecard chart** to display KPIs.
-6. 
+6. Generated actionable insights for sales performance improvement.
 
 <br>
 
