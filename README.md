@@ -44,6 +44,6 @@ Below are screenshots from the projet:
 <br>
 
 ### 🔑 **Key Learnings**
-- Hands-on experience with **data cleaning** in Google Sheets.
+- Hands-on experience with **basic data cleaning** in Google Sheets.
 - Designing a **user-friendly dashboard** using charts and pivot tables.
 - Understand how to extract insights from sales data.
