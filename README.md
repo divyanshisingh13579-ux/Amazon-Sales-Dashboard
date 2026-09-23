@@ -17,7 +17,7 @@
 - **Skills Used**
    - Data Cleanig
    - Data visualization
-   - Dahboard Design
+   - Dashboard Design
    - Analytical Thinking
 <br>
 
