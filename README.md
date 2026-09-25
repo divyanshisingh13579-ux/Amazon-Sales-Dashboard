@@ -38,14 +38,14 @@
 ## 👀 Preview
 Below are few screenshots from the project:
 
-### Amazon_Sales_Dashboard
+### Amazon Sales Dashboard
 <br>
 
 <img width="1329" height="591" alt="Amazon_Sales_Dashboard" src="https://github.com/user-attachments/assets/2270800b-635b-4a91-8392-14d5f55a55b0" />
 
 <br><br>
 
-### Amazon_Sales_Insights
+### Amazon Sales Insights
 <img width="1325" height="593" alt="Sales_Insigts" src="https://github.com/user-attachments/assets/fc5e68d2-56f2-425d-9ab9-258d757a3c09" />
 
 <br><br>
