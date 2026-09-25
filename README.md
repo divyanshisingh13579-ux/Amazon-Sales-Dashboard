@@ -22,8 +22,8 @@
 <br>
 
 ## 🔑 Key Steps
-1. Cleaned and organized raw data (handled blanks, inconsistent values, and formatting issues).
-2. Standardized date and numeric formats for consistency.
+1. Cleaned and organized raw data.
+2. Checked for duplicate records, inconsistent values, and formatting issues.
 3. Built **Pivot Tables** to summarize sales data by product, month, and category.
 4. Created interactive dashboard.
 5. Used **Scorecard chart** to display KPIs.
