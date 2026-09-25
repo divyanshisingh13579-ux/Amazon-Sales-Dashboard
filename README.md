@@ -28,11 +28,11 @@
 4. Created interactive dashboard.
 5. Used **Scorecard chart** to display KPIs.
 6. Generated actionable insights for sales performance improvement.
-
 <br>
 
 ## 🔗 **Live Google Sheet Link**
 (https://docs.google.com/spreadsheets/d/1uT_hAbT9UbTcqtys8vxipNRLfREoGPAWP1L7Rpn2T8Q/edit?usp=sharing)
+
 <br><br>
 
 ## 👀 Preview
@@ -48,6 +48,7 @@ Below are few screenshots from the project:
 ### Amazon_Sales_Insights
 <img width="1325" height="593" alt="Sales_Insigts" src="https://github.com/user-attachments/assets/fc5e68d2-56f2-425d-9ab9-258d757a3c09" />
 
+<br><br>
 
 ## 🔑 **Key Learnings**
 - Hands-on experience with **basic data cleaning** in Google Sheets.
