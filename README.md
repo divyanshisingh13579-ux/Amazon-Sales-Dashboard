@@ -41,7 +41,7 @@ Below are few screenshots from the project:
 ### Amazon Sales Dashboard
 <br>
 
-<img width="1329" height="591" alt="Amazon_Sales_Dashboard" src="https://github.com/user-attachments/assets/2270800b-635b-4a91-8392-14d5f55a55b0" />
+<img width="1247" height="554" alt="Amazon_Sales_Dashboard" src="https://github.com/user-attachments/assets/e0ec75fb-e768-4704-a6a5-b51ccb6c47c3" />
 
 <br><br>
 
