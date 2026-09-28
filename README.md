@@ -46,7 +46,7 @@ Below are few screenshots from the project:
 <br><br>
 
 ### Amazon Sales Insights
-<img width="1325" height="593" alt="Sales_Insigts" src="https://github.com/user-attachments/assets/fc5e68d2-56f2-425d-9ab9-258d757a3c09" />
+<img width="1309" height="553" alt="Sales_Insights" src="https://github.com/user-attachments/assets/d27a1c6f-cf3b-412b-ba38-7cb1d1129da8" />
 
 <br><br>
 
